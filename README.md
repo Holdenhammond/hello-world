@@ -1,3 +1,6 @@
 # hello-world
-guide project
-Space tacos are far more superior to earth tacos
+Guide Project
+
+Hello people!
+
+Space tacos are far more superior than earth tacos!
